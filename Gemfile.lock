@@ -32,7 +32,8 @@ GEM
       faraday (>= 0.7.4, < 0.10)
     fast-stemmer (1.0.2)
     ffi (1.9.3)
-    haml (4.0.5)
+    haml (5.2.0)
+      temple (>= 0.8.0)
       tilt
     highline (1.6.21)
     htmlentities (4.3.1)
@@ -110,10 +111,11 @@ GEM
     sass (3.3.7)
     simple-cloudfront-invalidator (1.0.1)
       colored (= 1.2)
+    temple (0.8.2)
     therubyracer (0.12.1)
       libv8 (~> 3.16.14.0)
       ref
-    tilt (2.0.1)
+    tilt (2.0.10)
     timers (1.1.0)
     toml (0.1.1)
       parslet (~> 1.5.0)
