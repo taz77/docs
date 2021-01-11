@@ -98,7 +98,7 @@ GEM
     rb-inotify (0.9.4)
       ffi (>= 0.5.0)
     rdiscount (2.1.7.1)
-    redcarpet (3.1.1)
+    redcarpet (3.5.1)
     ref (1.0.5)
     rubypants (0.2.0)
     s3-static-site (0.3.0)
